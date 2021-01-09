@@ -31,7 +31,10 @@ namespace ApiRequestTelemetryDemo.Filters
 
             // Cast the result to an Mvc ObjectResult and add the value to the telemtry
             var response = (ObjectResult)result.Result;
-            reqTelemetry.Properties.Add("Result", JsonConvert.SerializeObject(response.Value));
+            if (reqTelemetry != null)
+            {
+                reqTelemetry.Properties.Add("Result", JsonConvert.SerializeObject(response.Value));
+            }
         }
     }
 }
