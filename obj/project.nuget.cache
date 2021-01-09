@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mjsFlNJRmXOB740wadymaGYF0DSWERWjFqqHiaeJwR5Hhx3Anj5uyS9TOHSUeoJLQssPcaVqQ9NhHjEGOVkR+Q==",
+  "dgSpecHash": "6wDUwA5w5S0HY3Sy/Akht26bDqRMq+IKKdKDUvlVwui5m2HMdyD6livqdwf9ueXXUHIydRKd56QxBkanoTFZqg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\agtenr\\Projects\\agtenr\\api-request-telemetry\\ApiRequestTelemetryDemo\\ApiRequestTelemetryDemo.csproj",
+  "projectFilePath": "C:\\Users\\agtenr\\Projects\\agtenr\\api-request-telemetry\\ApiRequestTelemetryDemo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\agtenr\\.nuget\\packages\\microsoft.applicationinsights\\2.16.0\\microsoft.applicationinsights.2.16.0.nupkg.sha512",
     "C:\\Users\\agtenr\\.nuget\\packages\\microsoft.applicationinsights.aspnetcore\\2.16.0\\microsoft.applicationinsights.aspnetcore.2.16.0.nupkg.sha512",

@@ -4869,11 +4869,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agtenr\\Projects\\agtenr\\api-request-telemetry\\ApiRequestTelemetryDemo\\ApiRequestTelemetryDemo.csproj",
+      "projectUniqueName": "C:\\Users\\agtenr\\Projects\\agtenr\\api-request-telemetry\\ApiRequestTelemetryDemo.csproj",
       "projectName": "ApiRequestTelemetryDemo",
-      "projectPath": "C:\\Users\\agtenr\\Projects\\agtenr\\api-request-telemetry\\ApiRequestTelemetryDemo\\ApiRequestTelemetryDemo.csproj",
+      "projectPath": "C:\\Users\\agtenr\\Projects\\agtenr\\api-request-telemetry\\ApiRequestTelemetryDemo.csproj",
       "packagesPath": "C:\\Users\\agtenr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agtenr\\Projects\\agtenr\\api-request-telemetry\\ApiRequestTelemetryDemo\\obj\\",
+      "outputPath": "C:\\Users\\agtenr\\Projects\\agtenr\\api-request-telemetry\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
